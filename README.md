@@ -11,10 +11,10 @@
 	- All columns are Sortable 
 	- Striped rows
 	- Hover rows 
-  - Merge rows : Auto merge rows of first 1,2 columns (need customize grouping) 
-  - Rotate : Transport/Rotate rs/date/table, rotate tables row/column
+  	- Merge rows : Auto merge rows of first 1,2 columns (need customize grouping) 
+  	- Rotate : Transport/Rotate rs/date/table, rotate tables row/column
 	- Table is viewable at Mobile and Koisk
-
+	
 	- Options : Condensed table class="display compact" 
 	- Options : Paging (50,100, default 50 or 100, don’t be too small) 
 	- Options : Button to CSV/Excel/PDF/copy (only if required) 
